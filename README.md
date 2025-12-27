@@ -4,10 +4,26 @@
   Master of Engineering at CentraleSupélec. Focused on Quantitative Finance, Entrepreneurship and Artificial Intelligence.
 </p>
 
+
 ---
 
+## Toolbox
+Python • NumPy • pandas • scikit-learn • PyTorch • XGBoost • Git • statsmodels
 
+---
 
+## Background
+- **CentraleSupélec** — engineering degree (stats / IA / data science)  
+- **Lycée Descartes** — MPSI/MP* prep  
+
+---
+
+## EXTRACURRICULAR
+- **Entrepreneurship Track** — innovation & entrepreneurship
+- **Zenkolab** — Co-founder – AI Ophthalmology Startup 
+- **Magnum CentraleSupélec** — President, Oenology club
+
+---
 
 
 
